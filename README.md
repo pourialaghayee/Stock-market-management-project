@@ -12,7 +12,6 @@ We have designed a stock trading system with the following features in this proj
  5 - Selecting a stock and viewing its price change chart.
 
 6 - See the general trend of price changes using linear regression.
-
 ![](./images/sample1.png)
 
 ![](./images/sample2.png)
