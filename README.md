@@ -16,3 +16,5 @@ We have designed a stock trading system with the following features in this proj
 
 ![](./images/sample2.png)
 
+![](./images/sample3.png)
+
