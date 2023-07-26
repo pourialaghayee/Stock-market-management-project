@@ -14,7 +14,5 @@ We have designed a stock trading system with the following features in this proj
 6 - See the general trend of price changes using linear regression.
 
 ![](./image/sample1.png)
-
 ![](./image/sample2.png)
-
 ![](./image/sample3.png)
